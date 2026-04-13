@@ -1,4 +1,2 @@
-yfinance
-pandas
-numpy
-streamlit
+pip install --upgrade yfinance pandas numpy requests
+
