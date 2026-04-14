@@ -1,2 +1,6 @@
-pip install --upgrade yfinance pandas numpy requests
+yfinance
+pandas
+numpy
+requests
+
 
